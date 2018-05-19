@@ -26,7 +26,7 @@ As Project Co-ordinator at Cineac TV (the Netherlands) I was responsible for pro
 
 #### Teaching
 
-As Video Workshop Leader for Stichting hoedje van papier, I taught primary and secondary school children interview techniques, filming and editing skills to make short video films about their neighbourhood. http://www.stichtinghoedjevanpapier.nl/
+As Video Workshop Leader for 'Stichting Hoedje van Papier' I taught primary and secondary school children interview techniques, filming and editing skills to make short video films about their neighbourhood. http://www.stichtinghoedjevanpapier.nl/
 
 #### Organisational Skills
 
@@ -61,7 +61,7 @@ Fluent in English, Dutch and Arabic (Moroccan)
 - Antennerotterdam.nl (Jan 2012 to Jan 2013)
    video editor online magazine
    
-- Stichting hoedje van papier (Jan 2012 to Jun 2012)
+- Stichting Hoedje van Papier (Jan 2012 to Jun 2012)
   Video workshop leader   
 
 - Cineac TV (Jan 2008 to Jan 2012)
