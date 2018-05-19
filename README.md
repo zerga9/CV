@@ -3,7 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
 
 
-I am a junior software developer looking for work. I love problem solving and learning new skills, so coding is a perfect fit for me.
+I am a junior software developer looking for work. I love problem solving and computer languages, so coding is a perfect fit for me.
 
 
 ## Projects
@@ -22,15 +22,15 @@ For a complete list, please visit my [GitHub](https://github.com/zerga9?tab=repo
 
 #### Communication
 
-As Project Co-ordinator at Cineac TV (the Netherlands) I was responsible for promoting our broadcast, finding local volunteers, make them enthusiastic about our project and teaching them to film, interview and edit programs about their local community. I managed 15 volunteers from diverse backgrounds and monitored their development over four years. http://www.cineac.tv
+As Project Co-ordinator at Cineac TV (the Netherlands) I was responsible for promoting our broadcast, finding local volunteers, engaging them with our project and teaching them to film, interview and edit programmes about their local community. I managed 15 volunteers from diverse backgrounds and monitored their development over four years. http://www.cineac.tv
 
 #### Teaching
 
-As Video workshop leader for Stichting hoedje van papier, I was teaching primary and secondary school children interview techniques, filming and editing skills to make short video films about their neighbourhood. http://www.stichtinghoedjevanpapier.nl/
+As Video Workshop Leader for Stichting hoedje van papier, I taught primary and secondary school children interview techniques, filming and editing skills to make short video films about their neighbourhood. http://www.stichtinghoedjevanpapier.nl/
 
 #### Organisational Skills
 
-The project for Cineac TV was overseen and funded by the local city council. I had to deliver a detailed plan at the beginning of each year and the plan needed to be accounted for when the year was over. My project management had to be rigorous and those skills I have found to be readily transferable
+The project for Cineac TV was overseen and funded by the Rotterdam City Council. I had to deliver a detailed project plan with budget at the beginning of each year which needed to be accounted for when the year was over. My project management had to be rigorous and those skills I have found to be readily transferable.
 
 #### Other Skills
 
