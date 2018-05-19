@@ -58,7 +58,10 @@ Fluent in English, Dutch and Arabic (Moroccan)
 - Look Ahead Care and Support (Oct 2013 to July 2014)    
   Support worker and Shift Leader  
 
-- Stichting hoedje van papier (Jan 2012 to Jan 2013)
+- Antennerotterdam.nl (Jan 2012 to Jan 2013)
+   video editor online magazine
+   
+- Stichting hoedje van papier (Jan 2012 to Jun 2012)
   Video workshop leader   
 
 - Cineac TV (Jan 2008 to Jan 2012)
