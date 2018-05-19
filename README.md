@@ -1,7 +1,22 @@
 ## Gadiza Zerari
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
 
-I have done a lot of different things in my life, with enthusiasm and passion, but starting to code was like discovering an exciting new world that was waiting for me. I love problem solving and learning new skills, so coding is a perfect fit for me.
+
+I am an aspiring junior full stack developer. I love problem solving and learning new skills, so coding is a perfect fit for me.
+
+
+## Projects
+
+
+For a complete list, please visit my [GitHub](https://github.com/zerga9?tab=repositories).
+
+
+| Project                       | Description                                             | Technologies                       |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Oystercard](https://github.com/zerga9/oystercard)      | Second week of MakersAcademy, making a clone of the Oystercard                 | Ruby   | Rspec      |
+|[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a convenient one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  |
+|[Thermostat](https://github.com/zerga9/thermostat-js)                   | Fifth week challenge at Makers Academy. This program is a thermostat app using the Weather Map API.  | Ajax, JavaScript, HTML, CSS, Jquery     | Jasmine                 |
 
 ## Skills
 
@@ -34,15 +49,9 @@ Fluent in English, Dutch and Arabic (Moroccan)
 
 #### Erasmus University Rotterdam, The Netherlands
 
- - Philosophy (2007 to 2009)
+ - Philosophy
+ - Medicine
 
- - Medicine (1994 to 1998)
-
-
-#### Other qualifications
-
--  Atheneum (1989 to 1994), Buys Ballot Zaltbommel, The Netherlands.
-  (graduated in English, Dutch, History, Maths, Chemistry, Biology and Physics)
 
 ## Experience
 
@@ -58,8 +67,3 @@ Fluent in English, Dutch and Arabic (Moroccan)
 - Antennerotterdam.nl (Nov 2003 to Jan 2008)
   Web editor and video editor online magazine
 
-- Home Care Rotterdam (Thuiszorg Rotterdam) (Nov 2000 to Jan 2008)
-  On Call Home Carer
-
-- Havenziekenhuis Rotterdam, Travel Clinic (Jan 1998 to Jan 1999)
-  Medical Research Assistant
