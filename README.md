@@ -3,7 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
 
 
-I am an aspiring junior full stack developer. I love problem solving and learning new skills, so coding is a perfect fit for me.
+I am a junior software developer looking for work. I love problem solving and learning new skills, so coding is a perfect fit for me.
 
 
 ## Projects
