@@ -15,7 +15,7 @@ For a complete list, please visit my [GitHub](https://github.com/zerga9?tab=repo
 | Project                       | Description                                             | Technologies                       |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Oystercard](https://github.com/zerga9/oystercard)      | Second week of MakersAcademy, making a clone of the Oystercard                 | Ruby   | Rspec      |
-|[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a convenient one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  |
+|[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  |
 |[Thermostat](https://github.com/zerga9/thermostat-js)                   | Fifth week challenge at Makers Academy. This program is a thermostat app using the Weather Map API.  | Ajax, JavaScript, HTML, CSS, Jquery     | Jasmine                 |
 
 ## Skills
