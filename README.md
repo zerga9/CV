@@ -3,7 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
 
 
-I am a junior software developer looking for work. I love problem solving and computer languages, so coding is a perfect fit for me.
+I am a software developer, just graduated from Makers Academy. I have a background as self taught video editor. I love problem solving and computer languages, so coding is a perfect fit for me.
 
 
 ## Projects
@@ -34,6 +34,7 @@ As Video Workshop Leader for 'Stichting Hoedje van Papier' I taught primary and 
 #### Organisational Skills
 
 The project for Cineac TV was overseen and funded by the Rotterdam City Council. I had to deliver a detailed project plan with budget at the beginning of each year which needed to be accounted for when the year was over. My project management had to be rigorous and those skills I have found to be readily transferable.
+We had standups in the morning and at the end of the day we had a retro. The team was working in pairs to make objective items about their neighborhood
 
 #### Other Skills
 
