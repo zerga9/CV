@@ -3,7 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
 
 
-I am a software developer, just graduated from Makers Academy. Am a self taught video editor and love problem solving and computer languages, so coding is a perfect fit for me.
+I am a software developer and a self taught video editor. I love problem solving and computer languages, so coding is a perfect fit for me.
 
 
 ## Projects
