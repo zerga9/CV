@@ -1,9 +1,9 @@
 ## Gadiza Zerari
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
 
-I am a software developer and a self taught video editor. I love problem solving and computer languages, so coding is a perfect fit for me.
+I am a software developer and a self taught video editor. I have a passion for problem solving and computer languages, love learning new skills and developing myself, so coding is a perfect fit for me.
 
 
 ## Projects
@@ -12,13 +12,13 @@ I am a software developer and a self taught video editor. I love problem solving
 For a complete list, please visit my [GitHub](https://github.com/zerga9?tab=repositories).
 
 
-| Project                       | Description                                             | Technologies                       |  Testing                           |
+| Project                       | Description                                             | Technologies                       |  Testing                           |  TimeFrame  |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-|[Medical Prescription Blockchain Application](https://github.com/zerga9/blockchain_project)                   | Final Project. learn how a blockchain works and then use this information to build a secure, documented application to produce, monitor and issue drug prescriptions to patients   | JavaScript, Express, Node.Js, MongoDB, Mongoose, Heroku, Travis CI, HTML, CSS     | Jasmine, Cypress, Istanbul                 |
-| [Oystercard](https://github.com/zerga9/oystercard)      | Second week of MakersAcademy, making a clone of the Oystercard                 | Ruby   | Rspec      |
-|[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  |
-|[Thermostat](https://github.com/zerga9/thermostat-js)                   | Fifth week challenge at Makers Academy. This program is a thermostat app using the Weather Map API.  | Ajax, JavaScript, HTML, CSS, Jquery     | Jasmine                 |
-|[Battle](https://github.com/zerga9/battle)                   | Third week challenge at Makers Academy. Making a restful API.   | Ruby, Sinatra, Capybara, HTML, CSS     | Rspec, Capybara                 |
+|[Medical Prescription Blockchain Application](https://github.com/zerga9/blockchain_project)                   | Final Project. learn how a blockchain works and then use this information to build a secure, documented application to produce, monitor and issue drug prescriptions to patients   | JavaScript, Express, Node.Js, MongoDB, Mongoose, Heroku, Travis CI, HTML, CSS     | Jasmine, Cypress, Istanbul                 | 9 days |
+| [Oystercard](https://github.com/zerga9/oystercard)      | Second week of MakersAcademy, making a clone of the Oystercard                 | Ruby   | Rspec      | 5 days |
+|[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  | 2 days |
+|[Thermostat](https://github.com/zerga9/thermostat-js)                   | Fifth week challenge at Makers Academy. This program is a thermostat app using the Weather Map API.  | Ajax, JavaScript, HTML, CSS, Jquery     | Jasmine                 | 5 days |
+|[Battle](https://github.com/zerga9/battle)                   | Third week challenge at Makers Academy. Making a restful API.   | Ruby, Sinatra, Capybara, HTML, CSS     | Rspec, Capybara                 | 5 days |
 
 
 ## Skills
@@ -34,7 +34,7 @@ As Video Workshop Leader for 'Stichting Hoedje van Papier' I taught primary and 
 #### Organisational Skills
 
 The project for Cineac TV was overseen and funded by the Rotterdam City Council. I had to deliver a detailed project plan with budget at the beginning of each year which needed to be accounted for when the year was over. My project management had to be rigorous and those skills I have found to be readily transferable.
-We had standups in the morning and at the end of the day we had a retro. The team was working in pairs to make objective items about their neighborhood
+We had standups in the morning and at the end of the day we had a retro. The team was working in pairs to make objective items about their neighbourhood
 
 #### Other Skills
 
@@ -64,7 +64,7 @@ Fluent in English, Dutch and Arabic (Moroccan)
 
 - Antennerotterdam.nl (Jan 2012 to Jan 2013)
    video editor online magazine
-   
+
 - Stichting Hoedje van Papier (Jan 2012 to Jun 2012)
   Video workshop leader   
 
@@ -73,4 +73,3 @@ Fluent in English, Dutch and Arabic (Moroccan)
 
 - Antennerotterdam.nl (Nov 2003 to Jan 2008)
   Web editor and video editor online magazine
-
