@@ -13,7 +13,7 @@ For a complete list, please visit my [GitHub](https://github.com/zerga9?tab=repo
 
 
 | Project                       | Description                                             | Technologies                       |  Testing                           |  TimeFrame  |
-| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|---------------|
 |[Medical Prescription Blockchain Application](https://github.com/zerga9/blockchain_project)                   | Final Project. learn how a blockchain works and then use this information to build a secure, documented application to produce, monitor and issue drug prescriptions to patients   | JavaScript, Express, Node.Js, MongoDB, Mongoose, Heroku, Travis CI, HTML, CSS     | Jasmine, Cypress, Istanbul                 | 9 days |
 | [Oystercard](https://github.com/zerga9/oystercard)      | Second week of MakersAcademy, making a clone of the Oystercard                 | Ruby   | Rspec      | 5 days |
 |[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  | 2 days |
