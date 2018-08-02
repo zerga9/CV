@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
-I am a software developer and a self taught video editor. I have a passion for problem solving and computer languages, love learning new skills and developing myself, so coding is a perfect fit for me.
+I am a software developer and a self taught video editor. I have a passion for problem solving and computer languages, love learning new skills, so coding is a perfect fit for me.
 
 ## Projects
 
