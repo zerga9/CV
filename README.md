@@ -2,24 +2,19 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
-
 I am a software developer and a self taught video editor. I have a passion for problem solving and computer languages, love learning new skills and developing myself, so coding is a perfect fit for me.
-
 
 ## Projects
 
-
 For a complete list, please visit my [GitHub](https://github.com/zerga9?tab=repositories).
 
-
-| Project                       | Description                                             | Technologies                       |  Testing                           |  TimeFrame  |
-| -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|---------------|
-|[Medical Prescription Blockchain Application](https://github.com/zerga9/blockchain_project)                   | Final Project. learn how a blockchain works and then use this information to build a secure, documented application to produce, monitor and issue drug prescriptions to patients   | JavaScript, Express, Node.Js, MongoDB, Mongoose, Heroku, Travis CI, HTML, CSS     | Jasmine, Cypress, Istanbul                 | 9 days |
-| [Oystercard](https://github.com/zerga9/oystercard)      | Second week of MakersAcademy, making a clone of the Oystercard                 | Ruby   | Rspec      | 5 days |
-|[News Summary Challenge](https://github.com/zerga9/news-summary-challenge)                   | Sixth weekend challenge at Makers Academy. This program is a one page app for news summaries. It gets these summaries by linking to the the Guardian API and the Aylien Text Summary API. | Node.js, JavaScript, HTML, CSS     | Tests without testinglibrary                  | 2 days |
-|[Thermostat](https://github.com/zerga9/thermostat-js)                   | Fifth week challenge at Makers Academy. This program is a thermostat app using the Weather Map API.  | Ajax, JavaScript, HTML, CSS, Jquery     | Jasmine                 | 5 days |
-|[Battle](https://github.com/zerga9/battle)                   | Third week challenge at Makers Academy. Making a restful API.   | Ruby, Sinatra, Capybara, HTML, CSS     | Rspec, Capybara                 | 5 days |
-
+| Project                                                                                     | Description                                                                                                                                                                      | Technologies                                                                  | Testing                    | TimeFrame |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------- | --------- |
+| [Medical Prescription Blockchain Application](https://github.com/zerga9/blockchain_project) | Final Project. learn how a blockchain works and then use this information to build a secure, documented application to produce, monitor and issue drug prescriptions to patients | JavaScript, Express, Node.Js, MongoDB, Mongoose, Heroku, Travis CI, HTML, CSS | Jasmine, Cypress, Istanbul | 9 days    |
+| [Oystercard](https://github.com/zerga9/oystercard)                                          | Second week of MakersAcademy, making a clone of the Oystercard                                                                                                                   | Ruby                                                                          | Rspec                      | 5 days    |
+| [Financial Times HeadLines](https://github.com/zerga9/FT-HeadLines)                         | Website that shows headlines of the Financial Times with search box for users to search for headlines with specific words                                                        | JavaScript, Express, Node.Js, Heroku, Origami-components, HTML, CSS           | Cypress                    | 2 days    |
+| [Thermostat](https://github.com/zerga9/thermostat-js)                                       | Fifth week challenge at Makers Academy. This program is a thermostat app using the Weather Map API.                                                                              | Ajax, JavaScript, HTML, CSS, Jquery                                           | Jasmine                    | 5 days    |
+| [Battle](https://github.com/zerga9/battle)                                                  | Third week challenge at Makers Academy. Making a restful API.                                                                                                                    | Ruby, Sinatra, Capybara, HTML, CSS                                            | Rspec, Capybara            | 5 days    |
 
 ## Skills
 
@@ -41,7 +36,6 @@ We had standups in the morning and at the end of the day we had a retro. The tea
 Final Cut Pro (fully proficient)
 Fluent in English, Dutch and Arabic (Moroccan)
 
-
 ## Education
 
 #### Makers Academy (Feb 2018 to June 2018)
@@ -53,20 +47,19 @@ Fluent in English, Dutch and Arabic (Moroccan)
 
 #### Erasmus University Rotterdam, The Netherlands
 
- - Philosophy
- - Medicine
-
+- Philosophy
+- Medicine
 
 ## Experience
 
-- Look Ahead Care and Support (Oct 2013 to July 2014)    
-  Support worker and Shift Leader  
+- Look Ahead Care and Support (Oct 2013 to July 2014)  
+  Support worker and Shift Leader
 
 - Antennerotterdam.nl (Jan 2012 to Jan 2013)
-   video editor online magazine
+  video editor online magazine
 
 - Stichting Hoedje van Papier (Jan 2012 to Jun 2012)
-  Video workshop leader   
+  Video workshop leader
 
 - Cineac TV (Jan 2008 to Jan 2012)
   Project Co-ordinator
