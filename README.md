@@ -1,4 +1,4 @@
-# Gadiza Zerari
+# [Gadiza Zerari](mailto:gadizaz@hotmail.com)
 
 <p align="right">
 <a href="https://www.linkedin.com/in/gadiza-zerari-55010259/"><img src="https://user-images.githubusercontent.com/33194929/43586078-94213978-965e-11e8-8372-e4308985f9d0.png" width="50"></a>
