@@ -76,4 +76,4 @@ Fluent in English, Dutch and Arabic (Moroccan)
 
 ## Interests
 
-I love cycling, hiking in the countryside, travelling and reading fiction and non-fiction. I regularly attend tech meetups in London, to meet like-minded people and learn about new ideas and languages and I make a mean Tagine!.
+I love cycling, hiking in the countryside, travelling and reading fiction and non-fiction. I regularly attend tech meetups in London, to meet like-minded people and learn about new languages and developments and I make a mean Tagine!
