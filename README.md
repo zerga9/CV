@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/gadiza-zerari-55010259/"><img src="https://user-images.githubusercontent.com/33194929/43586078-94213978-965e-11e8-8372-e4308985f9d0.png" width="50"></a>
 </p>
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A full-stack developer and Makers Academy Fellowship graduate.
 I have a passion for problem solving, enjoy working in a team, learning new skills and creating visually appealing products using clean and dry code.
@@ -73,3 +73,7 @@ Fluent in English, Dutch and Arabic (Moroccan)
 
 - Antennerotterdam.nl (Nov 2003 to Jan 2008)
   Web editor and video editor online magazine
+
+## Interests
+
+I love cycling, hiking in the countryside, travelling and reading fiction and non-fiction. I regularly attend tech meetups in London, to meet like-minded people and learn about new ideas and languages and I make a mean Tagine!.
