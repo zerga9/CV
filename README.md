@@ -9,7 +9,8 @@
 A full-stack developer and Makers Academy Fellowship graduate.
 I have a passion for problem solving, enjoy working in a team, learning new skills and creating visually appealing products using clean and dry code.
 
-I studied Medicine and Philosophy. Became a self taught video editor and then a project manager for a TV station, a video workshop leader at secondary schools and a support worker in a home for young people with mental health problems and learning disabilities.
+I studied Medicine and Philosophy and then became a self taught video editor working for social
+and cultural projects.
 
 ## Projects
 
