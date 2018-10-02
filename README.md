@@ -6,11 +6,12 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-A full-stack developer and Makers Academy Fellowship graduate.
+
+A full-stack developer and Makers Academy Fellowship graduate. I'm looking for a role that I can get fully immersed in, contribute to an open, positive culture and collaborate with others to build excellent products.
+
 I have a passion for problem solving, enjoy working in a team, learning new skills and creating visually appealing products using clean and dry code.
 
-I studied Medicine and Philosophy and then became a self taught video editor working for social
-and cultural projects.
+I studied Medicine and Philosophy and then became a self taught video editor working for social and cultural projects.
 
 ## Projects
 
